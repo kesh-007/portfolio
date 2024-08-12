@@ -11,7 +11,7 @@ const Content = () => {
             key={index}
             className="max-w-xl"
           >
-            <Link href={project.link} className="text-xl font-semibold text-blue-500 underline mb-2">{project.name}</Link>
+            <Link href={project.link} target='_blank' className="text-xl font-semibold text-blue-500 underline mb-2">{project.name}</Link>
             <p className="text-gray-700 mb-4 mt-3">{project.description}</p>
 
           </div>
