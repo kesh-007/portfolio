@@ -10,7 +10,13 @@
         "name": "SR Engine",
         "description": "Developed student performance visualization tool effectively processing and presenting data for over 1000 students.",
         "link": "https://sr-engine.vercel.app"
+      },
+      {
+        "name": "CollegeCompass",
+        "description": "This website aids students with interview preparation through company-specific questions and lists colleges based on entrance exams",
+        "link": "https://collegecompass.vercel.app"
       }
+
     ]
   }
   
